@@ -1,0 +1,30 @@
+body
+{
+	margin: 0;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	background-color: #1b262c;
+
+
+}
+
+.logo
+{
+   border-radius: 70%;
+   position: relative;
+   top: 200px;
+   right: 200px;
+}
+
+.heading
+{
+  position: relative;
+  left: 50px;
+  top: 100px;
+}
+
+
+.Top-container
+{
+  background-color: #1b262c;	
+}
